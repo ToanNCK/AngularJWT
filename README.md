@@ -1,2 +1,1 @@
-# AngularJWT
 Demo thôi mà
